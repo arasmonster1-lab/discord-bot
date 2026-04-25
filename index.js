@@ -10,7 +10,7 @@ const {
 } = require("discord.js");
 
 // ⚠️ DOLDUR
-const TOKEN = "MTQ5NzMzOTM4Nzc2MTkxNzk3Mg.GZ3XAy.K4iXEctHtKt_Shg2dXj4eNBIJMj2UErqiaOoAg";
+client.login(process.env.DISCORD_TOKEN);
 const CLIENT_ID = "1497339387761917972";
 const GUILD_ID = "1497331159951212644";
 const OWNER_ID = "1496977806603587584";
